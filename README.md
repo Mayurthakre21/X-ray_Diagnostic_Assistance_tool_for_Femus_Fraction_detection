@@ -92,4 +92,6 @@ Integration with hospital PACS systems.
 
 👨‍💻 Authors
 Mayur Thakre – Backend + Model Integration + Frontend/UI, API setup
+
 Dr. Vibha Bora - Guide
+
